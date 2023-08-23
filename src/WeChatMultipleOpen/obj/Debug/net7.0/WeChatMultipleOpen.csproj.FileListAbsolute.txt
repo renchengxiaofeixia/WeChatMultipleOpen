@@ -1,0 +1,14 @@
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\bin\Debug\net7.0\WeChatMultipleOpen.exe
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\bin\Debug\net7.0\WeChatMultipleOpen.deps.json
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\bin\Debug\net7.0\WeChatMultipleOpen.runtimeconfig.json
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\bin\Debug\net7.0\WeChatMultipleOpen.dll
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\bin\Debug\net7.0\WeChatMultipleOpen.pdb
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.AssemblyInfoInputs.cache
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.AssemblyInfo.cs
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.csproj.CoreCompileInputs.cache
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.dll
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\refint\WeChatMultipleOpen.dll
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.pdb
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\WeChatMultipleOpen.genruntimeconfig.cache
+D:\src\WeChatMultipleOpen\src\WeChatMultipleOpen\obj\Debug\net7.0\ref\WeChatMultipleOpen.dll
